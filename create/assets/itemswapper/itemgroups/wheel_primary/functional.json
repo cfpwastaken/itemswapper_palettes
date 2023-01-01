@@ -1,0 +1,15 @@
+[
+  "create:encased_fan",
+  "create:millstone",
+  "create:crushing_wheel",
+  "create:mechanical_press",
+  "create:mechanical_mixer",
+  "create:speedometer",
+  "create:stressometer",
+  "create:mechanical_drill",
+  "create:mechanical_saw",
+  "create:deployer",
+  "create:portable_storage_interface",
+  "create:rotation_speed_controller",
+  "create:display_board"
+]
